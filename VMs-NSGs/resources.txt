@@ -1,0 +1,51 @@
+To learn more on Network Security Groups (NSGs)
+-----------------------------------------------
+
+Create, change, or delete a network security group
+--------------------------------------------------
+https://docs.microsoft.com/en-us/azure/virtual-network/manage-network-security-group
+
+
+Security groups
+---------------
+https://docs.microsoft.com/en-us/azure/virtual-network/security-overview
+https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-for-azure-services#services-that-can-be-deployed-into-a-virtual-network
+https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-for-azure-services
+
+
+Application security groups
+---------------------------
+https://docs.microsoft.com/en-us/azure/virtual-network/security-overview#application-security-groups
+
+
+Tutorial: Filter network traffic with a network security group using the Azure portal
+-------------------------------------------------------------------------------------
+https://docs.microsoft.com/en-us/azure/virtual-network/tutorial-filter-network-traffic
+
+
+Plan virtual networks
+---------------------
+https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-vnet-plan-design-arm
+
+
+Protect your network resources
+------------------------------
+https://docs.microsoft.com/en-us/azure/security-center/security-center-network-recommendations
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

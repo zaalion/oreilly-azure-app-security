@@ -1,0 +1,13 @@
+To learn more on SSL & TLS in Azure
+-----------------------------------
+
+Secure a custom DNS name with an SSL binding in Azure App Service
+-----------------------------------------------------------------
+https://docs.microsoft.com/en-us/azure/app-service/configure-ssl-bindings
+https://docs.microsoft.com/en-us/azure/app-service/app-service-web-tutorial-custom-ssl#enforce-https
+https://docs.microsoft.com/en-us/azure/app-service/app-service-web-tutorial-custom-ssl#enforce-tls-versions
+
+
+utorial: Map an existing custom DNS name to Azure App Service
+-------------------------------------------------------------
+https://docs.microsoft.com/en-us/azure/app-service/app-service-web-tutorial-custom-domain

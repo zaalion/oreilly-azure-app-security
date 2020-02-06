@@ -1,0 +1,25 @@
+﻿@model  WAFSQLDemo.Models.CountryInfo
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Add Country</h2>
+
+@using (Html.BeginForm("Create", "Country", FormMethod.Post))
+{
+<table>
+    <tr>
+        <td>Country: </td>
+        <td>@Html.TextBox("Country")</td>
+    </tr>
+    <tr>
+        <td>Capital: </td>
+        <td>@Html.TextBox("Capital")</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td><input id="Submit" type="submit" value="Add" /></td>
+    </tr>
+</table>
+}

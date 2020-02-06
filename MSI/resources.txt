@@ -1,0 +1,26 @@
+To learn more on Managed Identities (MSI)
+-----------------------------------------
+
+What is managed identities for Azure resources?
+-----------------------------------------------
+https://docs.microsoft.com/en-us/azure/active-directory/managed-identities-azure-resources/overview
+https://docs.microsoft.com/en-us/azure/active-directory/managed-identities-azure-resources/services-support-managed-identities
+https://docs.microsoft.com/en-us/azure/active-directory/managed-identities-azure-resources/services-support-managed-identities#azure-services-that-support-azure-ad-authentication
+
+
+How to use managed identities for App Service and Azure Functions
+-----------------------------------------------------------------
+https://docs.microsoft.com/en-us/azure/app-service/overview-managed-identity
+https://docs.microsoft.com/en-us/azure/app-service/overview-managed-identity#obtaining-tokens-for-azure-resources
+https://docs.microsoft.com/en-us/azure/app-service/overview-managed-identity#asal
+
+
+Authenticate access to Azure resources by using managed identities in Azure Logic Apps
+--------------------------------------------------------------------------------------
+https://docs.microsoft.com/en-us/azure/logic-apps/create-managed-service-identity
+
+
+Tutorial: Secure Azure SQL Database connection from App Service using a managed identity
+----------------------------------------------------------------------------------------
+https://docs.microsoft.com/en-us/azure/app-service/app-service-web-tutorial-connect-msi
+https://docs.microsoft.com/en-us/azure/sql-database/sql-database-aad-authentication-configure?tabs=azure-powershell
