@@ -36,6 +36,8 @@ https://docs.microsoft.com/en-us/azure/security-center/security-center-network-r
 What is Azure Bastion?
 ----------------------
 https://docs.microsoft.com/en-us/azure/bastion/bastion-overview
+https://www.youtube.com/watch?v=WElUQm02BTU
+https://www.youtube.com/watch?v=-Dy7dUvwUG4
 
 
 
