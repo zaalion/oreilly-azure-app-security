@@ -33,6 +33,11 @@ Protect your network resources
 https://docs.microsoft.com/en-us/azure/security-center/security-center-network-recommendations
 
 
+What is Azure Bastion?
+----------------------
+https://docs.microsoft.com/en-us/azure/bastion/bastion-overview
+
+
 
 
 

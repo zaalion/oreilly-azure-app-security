@@ -163,6 +163,7 @@
     <Content Include="Content\bootstrap-theme.min.css.map" />
     <Content Include="Content\bootstrap-theme.css.map" />
     <None Include="packages.config" />
+    <None Include="Properties\PublishProfiles\FolderProfile.pubxml" />
     <None Include="Properties\PublishProfiles\WAFDemoApp - FTP.pubxml" />
     <None Include="Properties\PublishProfiles\WAFDemoApp - Web Deploy.pubxml" />
   </ItemGroup>
