@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[CountryInfo](
+       [Id] [int] IDENTITY(1,1) NOT NULL,
+       [Country] [nvarchar](50) NOT NULL,
+       [Capital] [nvarchar](50) NOT NULL
+) ON [PRIMARY]

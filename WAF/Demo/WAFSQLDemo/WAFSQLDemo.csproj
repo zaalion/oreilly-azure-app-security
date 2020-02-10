@@ -137,6 +137,7 @@
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="CreateTable.txt" />
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
@@ -163,6 +164,9 @@
     <Content Include="Content\bootstrap-theme.min.css.map" />
     <Content Include="Content\bootstrap-theme.css.map" />
     <None Include="packages.config" />
+    <None Include="Properties\PublishProfiles\CountryDemoO1 - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\CountryDemoO1 - ReadOnly - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\CountryDemoO1 - Web Deploy.pubxml" />
     <None Include="Properties\PublishProfiles\FolderProfile.pubxml" />
     <None Include="Properties\PublishProfiles\WAFDemoApp - FTP.pubxml" />
     <None Include="Properties\PublishProfiles\WAFDemoApp - Web Deploy.pubxml" />

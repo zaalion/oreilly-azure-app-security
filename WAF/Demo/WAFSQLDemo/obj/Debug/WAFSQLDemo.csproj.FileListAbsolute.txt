@@ -27,7 +27,6 @@ C:\Users\matt\oreilly-azure-app-security\WAF\Demo\WAFSQLDemo\bin\Antlr3.Runtime.
 C:\Users\matt\oreilly-azure-app-security\WAF\Demo\WAFSQLDemo\bin\System.Diagnostics.DiagnosticSource.xml
 C:\Users\matt\oreilly-azure-app-security\WAF\Demo\WAFSQLDemo\bin\Microsoft.AspNet.TelemetryCorrelation.xml
 C:\Users\matt\oreilly-azure-app-security\WAF\Demo\WAFSQLDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\matt\oreilly-azure-app-security\WAF\Demo\WAFSQLDemo\obj\Debug\WAFSQLDemo.csprojAssemblyReference.cache
 C:\Users\matt\oreilly-azure-app-security\WAF\Demo\WAFSQLDemo\obj\Debug\WAFSQLDemo.csproj.CopyComplete
 C:\Users\matt\oreilly-azure-app-security\WAF\Demo\WAFSQLDemo\obj\Debug\WAFSQLDemo.dll
 C:\Users\matt\oreilly-azure-app-security\WAF\Demo\WAFSQLDemo\obj\Debug\WAFSQLDemo.pdb
@@ -77,3 +76,4 @@ C:\Users\matt\oreilly-azure-app-security\WAF\Demo\WAFSQLDemo\bin\roslyn\vbc.exe.
 C:\Users\matt\oreilly-azure-app-security\WAF\Demo\WAFSQLDemo\bin\roslyn\vbc.rsp
 C:\Users\matt\oreilly-azure-app-security\WAF\Demo\WAFSQLDemo\bin\roslyn\VBCSCompiler.exe
 C:\Users\matt\oreilly-azure-app-security\WAF\Demo\WAFSQLDemo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\matt\oreilly-azure-app-security\WAF\Demo\WAFSQLDemo\obj\Debug\WAFSQLDemo.csprojAssemblyReference.cache
