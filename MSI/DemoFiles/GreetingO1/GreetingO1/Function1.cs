@@ -21,19 +21,20 @@ namespace GreetingO1
             ILogger log)
         {
 
-            // creating the Key Vault client
-            var kv = new KeyVaultClient(new KeyVaultClient.AuthenticationCallback(GetAccessToken));
-            var secretUrl = "https://kvo1.vault.azure.net/secrets/myname/93d6f494fac6421bbf79a7c2fb1982ef";
-            var secret = kv.GetSecretAsync(secretUrl).Result;
-            var myName = secret.Value;
+            //// creating the Key Vault client
+            //var kv = new KeyVaultClient(new KeyVaultClient.AuthenticationCallback(GetAccessToken));
+            //var secretUrl = "https://kvo1.vault.azure.net/secrets/myname/93d6f494fac6421bbf79a7c2fb1982ef";
+            //var secret = kv.GetSecretAsync(secretUrl).Result;
+            //var myName = secret.Value;
 
-            // var myName = "John";
+            var myName = "John";
 
             return myName != null
                 ? (ActionResult)new OkObjectResult($"Hello, {myName}")
                 : new BadRequestObjectResult("Please pass a name on the query string or in the request body");
         }
 
+        /*
         private static async Task<string> GetAccessToken(string authority, string resource, string scope)
         {
 
@@ -51,5 +52,6 @@ namespace GreetingO1
             AuthenticationResult result = await authenticationContext.AcquireTokenAsync(resource, cCreds);
             return result.AccessToken;
         }
+        */
     }
 }
