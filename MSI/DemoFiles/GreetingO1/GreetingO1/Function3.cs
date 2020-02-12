@@ -23,7 +23,7 @@ namespace GreetingO1
             var myName = secret.Value;
 
             return myName != null
-                ? (ActionResult)new OkObjectResult($"Hello, {myName}")
+                ? (ActionResult)new OkObjectResult($"Hello, {myName} (Azure KV with MSI)")
                 : new BadRequestObjectResult("Please pass a name on the query string or in the request body");
         }
 
