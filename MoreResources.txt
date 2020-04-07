@@ -3,7 +3,6 @@ More on Azure API Management (APIM)
 https://azure.microsoft.com/en-ca/services/api-management/
 https://docs.microsoft.com/en-us/azure/api-management/
 
-
 Azure Architecture Center
 -------------------------
 https://docs.microsoft.com/en-us/azure/architecture/
@@ -11,4 +10,6 @@ https://docs.microsoft.com/en-us/azure/architecture/
 Azure Security
 --------------
 https://docs.microsoft.com/en-us/azure/architecture/framework/security/overview
+
+
 

@@ -46,6 +46,11 @@ Tutorial: Create a Web Application Firewall policy on Azure Front Door using the
 https://docs.microsoft.com/en-us/azure/frontdoor/waf-front-door-create-portal
 
 
+Custom WAF Rules
+----------------
+https://docs.microsoft.com/en-us/azure/web-application-firewall/ag/custom-waf-rules-overview
+
+
 
 
 

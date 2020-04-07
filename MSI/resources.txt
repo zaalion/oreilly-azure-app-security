@@ -24,3 +24,7 @@ Tutorial: Secure Azure SQL Database connection from App Service using a managed 
 ----------------------------------------------------------------------------------------
 https://docs.microsoft.com/en-us/azure/app-service/app-service-web-tutorial-connect-msi
 https://docs.microsoft.com/en-us/azure/sql-database/sql-database-aad-authentication-configure?tabs=azure-powershell
+
+Azure Key Vault References
+--------------------------
+https://docs.microsoft.com/en-us/azure/app-service/app-service-key-vault-references
