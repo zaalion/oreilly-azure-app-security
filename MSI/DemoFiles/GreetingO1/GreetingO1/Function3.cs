@@ -18,7 +18,7 @@ namespace GreetingO1
         {
             // creating the Key Vault client
             var kv = new KeyVaultClient(new KeyVaultClient.AuthenticationCallback(GetAccessToken));
-            var secretUrl = "https://kvo1.vault.azure.net/secrets/myname/93d6f494fac6421bbf79a7c2fb1982ef";
+            var secretUrl = "https://kv-or-demo01.vault.azure.net/secrets/myName/4f90054611584339af7e4f64a9c7a279";
             var secret = kv.GetSecretAsync(secretUrl).Result;
             var myName = secret.Value;
 
