@@ -31,7 +31,7 @@ namespace GreetingO1
         {
             // Getting access token from Azure Active Directory
             var clientId = "89d26813-57e4-4a33-a143-ac5b9e3f1073";
-            var clientSecret = "v_K:wT=3xBX3/QC3WoAyz658eGnzqf:H";
+            var clientSecret = "]7ssMcKe31L6oOqZ.K-?MsvZDJ?I5=hv";
             var authenticationContext = new AuthenticationContext(authority);
             var cCreds = new ClientCredential(clientId, clientSecret);
             AuthenticationResult result = await authenticationContext.AcquireTokenAsync(resource, cCreds);

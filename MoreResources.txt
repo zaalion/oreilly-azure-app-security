@@ -11,5 +11,34 @@ Azure Security
 --------------
 https://docs.microsoft.com/en-us/azure/architecture/framework/security/overview
 
+Azure Service Tags
+------------------
+https://docs.microsoft.com/en-us/azure/virtual-network/service-tags-overview
+
+Managed Identity and Containers
+-------------------------------
+https://docs.microsoft.com/en-us/azure/container-instances/container-instances-managed-identity
+https://docs.microsoft.com/en-us/azure/aks/use-managed-identity
+
+WAF Logging
+-----------
+https://docs.microsoft.com/en-us/azure/sentinel/connect-microsoft-waf
+https://docs.microsoft.com/bs-latn-ba/azure/application-gateway/log-analytics
+https://docs.microsoft.com/en-us/azure/sentinel/tutorial-detect-threats-built-in
+https://docs.microsoft.com/en-us/azure/application-gateway/application-gateway-diagnostics
+
+
+More on Azure Application Gateway
+---------------------------------
+https://docs.microsoft.com/en-us/azure/application-gateway/overview
+
+
+
+
+
+
+
+
+
 
 
