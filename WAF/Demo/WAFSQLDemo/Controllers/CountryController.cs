@@ -9,7 +9,7 @@ namespace WAFSQLDemo.Controllers
     {
         static readonly string connectingString = "Server=sqlsrvwaf.database.windows.net,1433;" +
         "Initial Catalog=sqlwafdemo;Persist Security Info=False;" +
-        "User ID=rezaadmin;Password=Kluwer2006!@#;MultipleActiveResultSets=False;Encrypt=True" +
+        "User ID=rezaadmin;Password=sqlsrvwaf!@#;MultipleActiveResultSets=False;Encrypt=True" +
         ";TrustServerCertificate=True;Connection Timeout=30;";
 
         // GET: Country
