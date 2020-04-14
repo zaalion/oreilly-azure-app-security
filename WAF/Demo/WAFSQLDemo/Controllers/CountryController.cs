@@ -7,14 +7,9 @@ namespace WAFSQLDemo.Controllers
 {
     public class CountryController : Controller
     {
-        //static readonly string connectingString = "Server=13.82.95.48,1433;" +
-        //    "Initial Catalog=COUNTRYDB;Persist Security Info=False;" +
-        //    "User ID=radmin;Password=Password&980;MultipleActiveResultSets=False;Encrypt=True" +
-        //    ";TrustServerCertificate=True;Connection Timeout=30;";
-
-        static readonly string connectingString = "Server=oreillydb01.database.windows.net,1433;" +
-        "Initial Catalog=COUNTRYDB;Persist Security Info=False;" +
-        "User ID=radmin;Password=Password&980;MultipleActiveResultSets=False;Encrypt=True" +
+        static readonly string connectingString = "Server=sqlsrvwaf.database.windows.net,1433;" +
+        "Initial Catalog=sqlwafdemo;Persist Security Info=False;" +
+        "User ID=rezaadmin;Password=Kluwer2006!@#;MultipleActiveResultSets=False;Encrypt=True" +
         ";TrustServerCertificate=True;Connection Timeout=30;";
 
         // GET: Country

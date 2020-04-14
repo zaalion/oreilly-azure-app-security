@@ -164,6 +164,9 @@
     <Content Include="Content\bootstrap-theme.min.css.map" />
     <Content Include="Content\bootstrap-theme.css.map" />
     <None Include="packages.config" />
+    <None Include="Properties\PublishProfiles\appsrv-waf-demo - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\appsrv-waf-demo - ReadOnly - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\appsrv-waf-demo - Web Deploy.pubxml" />
     <None Include="Properties\PublishProfiles\CountryDemoO1 - FTP.pubxml" />
     <None Include="Properties\PublishProfiles\CountryDemoO1 - ReadOnly - FTP.pubxml" />
     <None Include="Properties\PublishProfiles\CountryDemoO1 - Web Deploy.pubxml" />
