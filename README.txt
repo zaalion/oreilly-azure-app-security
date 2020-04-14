@@ -2,3 +2,5 @@ This repository contains the resources, documentation and demo code for the foll
 
 https://learning.oreilly.com/live-training/courses/application-security-in-azure/0636920360049/
 
+
+
