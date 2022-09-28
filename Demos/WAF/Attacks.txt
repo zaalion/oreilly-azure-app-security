@@ -1,6 +1,0 @@
-SQL Injection:
-') ; TRUNCATE TABLE countryinfo --
-
-
-XSS:
-<script>alert("Hi")</script>
