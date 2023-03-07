@@ -1,3 +1,18 @@
+Application Security in Azure
+=============================
+https://learn.microsoft.com/en-us/certifications/exams/az-500
+https://learn.microsoft.com/en-us/azure/active-directory/managed-identities-azure-resources/overview
+https://learn.microsoft.com/en-us/azure/key-vault/general/developers-guide
+https://learn.microsoft.com/en-us/azure/databricks/security/secrets/secret-scopes
+https://learn.microsoft.com/en-us/azure/cosmos-db/role-based-access-control
+https://learn.microsoft.com/en-us/azure/cosmos-db/how-to-setup-rbac
+https://learn.microsoft.com/en-us/azure/app-service/app-service-key-vault-references?tabs=azure-cli
+https://learn.microsoft.com/en-us/azure/virtual-network/network-security-groups-overview
+https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/ag-overview
+https://learn.microsoft.com/en-us/azure/azure-sql/database/transparent-data-encryption-tde-overview?view=azuresql&tabs=azure-portal
+https://learn.microsoft.com/en-us/sql/relational-databases/security/encryption/always-encrypted-database-engine?view=sql-server-ver16
+https://learn.microsoft.com/en-us/azure/azure-sql/database/dynamic-data-masking-overview?view=azuresql
+
 AZ-500
 ======
 https://cpl.thalesgroup.com/resources/encryption/microsoft-azure-key-vault-byok-integration-guide
